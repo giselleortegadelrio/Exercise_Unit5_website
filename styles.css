@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "QuickSand";
+  src: url("../FUENTES/Quicksand/Quicksand-VariableFont_wght.ttf");
+}
+
+
+html, body {
+    font-size: 13px; 
+  
+    background-color: rgb(205,102,51);
+}
